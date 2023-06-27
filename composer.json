@@ -1,0 +1,24 @@
+{
+  "name": "modusaurum-corelib/lib-debug",
+  "description": "A PHP debug library",
+  "type": "library",
+  "license": "Proprietary",
+  "authors": [
+    {
+      "name": "Alyssa McKeown",
+      "email": "zenitha5@protonmail.com"
+    }
+  ],
+  "config":{
+    "secure-http": false
+  },
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "repositories": [],
+  "autoload": {
+    "psr-4": {
+      "lib_debug\\": "src/"
+    }
+  }
+}
