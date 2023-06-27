@@ -14,7 +14,7 @@ A PHP debug library.
 composer.json
 
     "require": {
-        "alyssa-mckeown/lib-debug-php": "dev-master",
+        "alyssa-mckeown/lib-debug-php": "dev-main",
     },
     "repositories": [
         {
